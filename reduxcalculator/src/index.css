@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(240, 228, 228);
+}
+.inc.btn{
+  background: blue;
+  color: white;
+}
+
+.dec.btn{
+  background: yellowgreen;
+  color: white;
+}
+
+.btn2 {
+  background: rgb(205, 14, 81);
+  color: white;
+ padding: 10px;
+  margin: 20px  ;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn3 {
+  background: yellow;
+  color: black;
+ padding: 10px;
+  margin: 20px  ;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn {
+ 
+ padding: 15px;
+  margin: 20px  ;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.btn4 {
+  background: blueviolet;
+  color: white;
+ padding: 10px;
+  margin: 20px  ;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn5 {
+  background: rgb(223, 38, 6);
+  color: white;
+ padding: 10px;
+ width: 200px;
+  margin: 20px  ;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.btn1 {
+  background: rgb(9, 143, 221);
+  color: white;
+ padding: 10px;
+  margin: 20px  ;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.number{
+  padding: 20px;
+ font-size: 30px;
+ color: rgb(246, 51, 13);
+
+}
+
+.btn:hover {
+  background:rgb(218, 104, 238) ;
+  transition: var(--transition);
+}
+
+.value{
+  border:1px solid transparent;      
+  border-radius:100px;
+  font-family:cursive;
+  color:white;
+  width:40%;
+  margin:auto;
+  margin-top:5%;
+  margin-bottom:5%;
+  background:teal;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
